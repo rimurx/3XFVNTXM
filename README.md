@@ -1,4 +1,4 @@
-[![Hits](https://hits.sh/github.com/rimurx/3XFVNTXM.svg?label=Visitors)](https://hits.sh/github.com/rimurx/3XFVNTXM/)
+[![Hits](https://hits.sh/github.com/rimurx/3XFVNTXM.svg?label=Views&color=007ec6)](https://hits.sh/github.com/rimurx/3XFVNTXM/)
 
 Buy Me a Coffee
 ===============
