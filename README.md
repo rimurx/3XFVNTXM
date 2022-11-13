@@ -1,3 +1,7 @@
+<strong><h2 align=center>STATUS:</strong></h2><h2 align=center> ❌ DISABLED ❌</h2>
+
+## UPDATE SOON SORRY!
+
 [![Hits](https://hits.sh/github.com/rimurx/3XFVNTXM.svg?label=Views&color=007ec6)](https://hits.sh/github.com/rimurx/3XFVNTXM/)
 
 Buy Me a Coffee
